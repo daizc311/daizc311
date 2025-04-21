@@ -11,6 +11,10 @@
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
 </div>
 
+## WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Tools
 <div>  
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
