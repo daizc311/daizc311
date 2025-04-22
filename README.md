@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML                42 mins         ███████████▓░░░░░░░░░░░░░   46.96 %
+Java               36 mins         ██████████░░░░░░░░░░░░░░░   40.29 %
+C#                 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Requirements.txt   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+C++                2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
