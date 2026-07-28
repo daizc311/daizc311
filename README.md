@@ -3,18 +3,42 @@
 
 ## WakaTime
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2027%20mins-blue?style=flat)
+
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-Java                     2 hrs 17 mins       ██████████████░░░░░░░░░░░   56.46 % 
-Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Java Template Engine     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-PowerShell               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Java                     2 hrs 17 mins       ███████████████░░░░░░░░░░   59.50 % 
+Markdown                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Java Template Engine     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 48 mins (98.87%)
+
+✍️ 5,107 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 60,064,744 Input Tokens, 299,656 Output Tokens
+
+💵 $301.80 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 22 AI Prompts
+
+GPT                      5,242 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,221 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Java** 
@@ -30,7 +54,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:41:13 UTC
+ Last Updated on 28/07/2026 02:21:37 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
