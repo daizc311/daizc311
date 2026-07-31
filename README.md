@@ -9,34 +9,34 @@
 
 ```text
 💬 编程语言: 
-Java                     2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.86 % 
-Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Less                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Java                     36 mins             █████████░░░░░░░░░░░░░░░░   35.70 % 
+TypeScript               32 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
+Less                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (98.98%)
+⏱ AI Coding Time: 1 hr 39 mins (97.44%)
 
-✍️ 3,294 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 896 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 64,144,372 Input Tokens, 266,860 Output Tokens
+🔤 24,099,047 Input Tokens, 67,857 Output Tokens
 
-💵 $324.20 Estimated AI Cost This Week
+💵 $122.26 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-GPT                      3,497 lines         █████████████████████████   100.00 % 
+GPT                      971 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 695 characters per prompt
+📝 Concise Prompter — average 158 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -54,7 +54,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:07:46 UTC
+ Last Updated on 31/07/2026 02:35:36 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
