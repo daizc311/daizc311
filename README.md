@@ -9,35 +9,35 @@
 
 ```text
 💬 编程语言: 
-Java                     36 mins             █████████░░░░░░░░░░░░░░░░   35.70 % 
-TypeScript               32 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
-Less                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Java                     1 hr 16 mins        ███████████░░░░░░░░░░░░░░   42.34 % 
+TypeScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+XML                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Less                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (97.44%)
+⏱ AI Coding Time: 3 hrs 1 min (100.0%)
 
-✍️ 896 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,453 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 24,099,047 Input Tokens, 67,857 Output Tokens
+🔤 36,401,494 Input Tokens, 117,136 Output Tokens
 
-💵 $122.26 Estimated AI Cost This Week
+💵 $185.52 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
+🧠 4 AI Sessions, 21 AI Prompts
 
-GPT                      971 lines           █████████████████████████   100.00 % 
+GPT                      1,528 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 192 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -54,7 +54,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:35:36 UTC
+ Last Updated on 01/08/2026 02:34:09 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
