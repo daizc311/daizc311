@@ -9,34 +9,35 @@
 
 ```text
 💬 编程语言: 
-Java                     36 mins             █████████░░░░░░░░░░░░░░░░   36.64 % 
-TypeScript               32 mins             ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Less                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Java                     2 hrs 37 mins       █████████████░░░░░░░░░░░░   50.90 % 
+Python                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 8 mins (100.0%)
 
-✍️ 896 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,165 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 24,099,047 Input Tokens, 67,857 Output Tokens
+🔤 72,311,710 Input Tokens, 392,507 Output Tokens
 
-💵 $122.53 Estimated AI Cost This Week
+💵 $347.31 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
+🧠 18 AI Sessions, 47 AI Prompts
 
-GPT                      971 lines           █████████████████████████   100.00 % 
+GPT                      2,321 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,466 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -53,7 +54,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 02:17:40 UTC
+ Last Updated on 05/08/2026 02:13:35 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
