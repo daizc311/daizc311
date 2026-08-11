@@ -9,34 +9,32 @@
 
 ```text
 💬 编程语言: 
-Python                   1 hr                ███████████░░░░░░░░░░░░░░   43.62 % 
-Java                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-YAML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+YAML                     29 mins             ███████████████░░░░░░░░░░   58.99 % 
+Java                     15 mins             ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Java Properties          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (100.0%)
+⏱ AI Coding Time: 49 mins (100.0%)
 
-✍️ 1,796 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 501 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 39,030,864 Input Tokens, 232,643 Output Tokens
+🔤 13,204,261 Input Tokens, 72,968 Output Tokens
 
-💵 $189.37 Estimated AI Cost This Week
+💵 $70.60 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 24 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-GPT                      1,901 lines         █████████████████████████   100.00 % 
+GPT                      533 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,144 characters per prompt
+📝 Concise Prompter — average 380 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -54,7 +52,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 01:28:24 UTC
+ Last Updated on 11/08/2026 01:26:09 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
