@@ -9,33 +9,33 @@
 
 ```text
 💬 编程语言: 
-YAML                     29 mins             ███████████████░░░░░░░░░░   58.99 % 
-Java                     15 mins             ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Java Properties          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Java                     11 mins             ██████████████████████░░░   89.87 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 
 🔥 编辑器: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             ██████████████████████░░░   89.87 % 
+Codex Vscode             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (100.0%)
+⏱ AI Coding Time: 12 mins (100.0%)
 
-✍️ 501 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 381 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,204,261 Input Tokens, 72,968 Output Tokens
+🔤 2,186,305 Input Tokens, 25,756 Output Tokens
 
-💵 $70.60 Estimated AI Cost This Week
+💵 $13.35 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-GPT                      533 lines           █████████████████████████   100.00 % 
+GPT                      381 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 380 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 141 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -52,7 +52,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 01:26:09 UTC
+ Last Updated on 12/08/2026 01:43:40 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
