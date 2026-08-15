@@ -9,34 +9,30 @@
 
 ```text
 💬 编程语言: 
-Java                     21 mins             ███████████████████████░░   92.77 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JavaScript               1 min               █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-Agent                    18 mins             ████████████████████░░░░░   80.56 % 
-Cursor                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Codex Vscode             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 86,465 Input Tokens, 6,632 Output Tokens
+🔤 49,479 Input Tokens, 5,425 Output Tokens
 
-💵 $0.83 Estimated AI Cost This Week
+💵 $0.58 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
+📝 Concise Prompter — average 163 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -54,7 +50,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 01:43:43 UTC
+ Last Updated on 15/08/2026 01:04:42 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
