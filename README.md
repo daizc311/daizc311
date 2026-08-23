@@ -9,36 +9,34 @@
 
 ```text
 💬 编程语言: 
-PowerShell               25 mins             ██████████████░░░░░░░░░░░   55.94 % 
-SSH Config               8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Batchfile                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+SSH Config               8 mins              █████████████████░░░░░░░░   69.82 % 
+Batchfile                3 mins              ████████░░░░░░░░░░░░░░░░░   30.18 % 
 
 🔥 编辑器: 
-VS Code                  23 mins             █████████████░░░░░░░░░░░░   53.03 % 
-Codex Vscode             21 mins             ████████████░░░░░░░░░░░░░   46.97 % 
+VS Code                  10 mins             █████████████████████░░░░   82.54 % 
+Codex Vscode             2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (100.0%)
+⏱ AI Coding Time: 12 mins (100.0%)
 
-✍️ 273 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 190 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 356,623 Input Tokens, 40,400 Output Tokens
+🔤 92,345 Input Tokens, 22,584 Output Tokens
 
-💵 $1.67 Estimated AI Cost This Week
+💵 $0.37 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 19 AI Prompts
+🧠 6 AI Sessions, 8 AI Prompts
 
-GPT                      83 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,808 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 14,780 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -55,7 +53,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 01:04:03 UTC
+ Last Updated on 23/08/2026 01:09:26 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
