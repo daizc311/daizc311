@@ -9,33 +9,39 @@
 
 ```text
 💬 编程语言: 
-SSH Config               8 mins              █████████████████░░░░░░░░   69.82 % 
-Batchfile                3 mins              ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Batchfile                27 mins             █████████████████░░░░░░░░   66.23 % 
+SSH Config               9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 编辑器: 
-VS Code                  10 mins             █████████████████████░░░░   82.54 % 
-Codex Vscode             2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Codex Vscode             19 mins             ████████████░░░░░░░░░░░░░   47.78 % 
+VS Code                  14 mins             █████████░░░░░░░░░░░░░░░░   35.23 % 
+Agent                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Claude Code              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (100.0%)
+⏱ AI Coding Time: 40 mins (98.13%)
 
 ✍️ 190 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 92,345 Input Tokens, 22,584 Output Tokens
+🔤 704,659 Input Tokens, 109,019 Output Tokens
 
-💵 $0.37 Estimated AI Cost This Week
+💵 $4.44 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 8 AI Prompts
+🧠 17 AI Sessions, 23 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 14,780 characters per prompt
+📚 Verbose Prompter — average 15,816 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -53,7 +59,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 01:09:26 UTC
+ Last Updated on 24/08/2026 01:07:00 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
