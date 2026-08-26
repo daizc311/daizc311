@@ -9,38 +9,35 @@
 
 ```text
 💬 编程语言: 
-Batchfile                11 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
-SSH Config               9 mins              ██████████░░░░░░░░░░░░░░░   39.43 % 
-XML                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Batchfile                11 mins             █████████████░░░░░░░░░░░░   51.06 % 
+SSH Config               9 mins              ███████████░░░░░░░░░░░░░░   45.33 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 编辑器: 
-VS Code                  13 mins             █████████████░░░░░░░░░░░░   53.67 % 
-Codex Vscode             4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Agent                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Claude Code              3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+VS Code                  13 mins             ███████████████░░░░░░░░░░   61.70 % 
+Codex Vscode             4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Agent                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (96.92%)
+⏱ AI Coding Time: 21 mins (96.46%)
 
 ✍️ 190 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 292,124 Input Tokens, 73,035 Output Tokens
+🔤 227,214 Input Tokens, 70,181 Output Tokens
 
 💵 $0.68 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 19 AI Prompts
+🧠 13 AI Sessions, 18 AI Prompts
 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 18,590 characters per prompt
+📚 Verbose Prompter — average 19,608 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -58,7 +55,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:06:11 UTC
+ Last Updated on 26/08/2026 01:08:14 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
