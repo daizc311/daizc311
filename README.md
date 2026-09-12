@@ -9,38 +9,34 @@
 
 ```text
 💬 编程语言: 
-Other                    1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.66 % 
-TypeScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-HTTP                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Java                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    30 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-Codex Vscode             2 hrs 36 mins       ████████████████████░░░░░   79.07 % 
-VS Code                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+VS Code                  18 mins             ████████████████░░░░░░░░░   62.26 % 
+Codex Vscode             11 mins             █████████░░░░░░░░░░░░░░░░   37.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 30 mins (100.0%)
 
-✍️ 914 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,224,959 Input Tokens, 124,716 Output Tokens
+🔤 257,402 Input Tokens, 12,429 Output Tokens
 
-💵 $31.58 Estimated AI Cost This Week
+💵 $1.68 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 60 AI Prompts
+🧠 7 AI Sessions, 13 AI Prompts
 
-GPT                      924 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,013 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,173 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 Java** 
@@ -56,7 +52,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 02:59:12 UTC
+ Last Updated on 12/09/2026 03:05:54 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
