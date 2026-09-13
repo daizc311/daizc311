@@ -9,34 +9,38 @@
 
 ```text
 💬 编程语言: 
-Other                    30 mins             █████████████████████████   100.00 % 
+Java                     55 mins             █████████░░░░░░░░░░░░░░░░   36.38 % 
+YAML                     42 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 编辑器: 
-VS Code                  18 mins             ████████████████░░░░░░░░░   62.26 % 
-Codex Vscode             11 mins             █████████░░░░░░░░░░░░░░░░   37.74 % 
+Codex Vscode             1 hr 38 mins        ████████████████░░░░░░░░░   65.35 % 
+VS Code                  52 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 31 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 374 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 257,402 Input Tokens, 12,429 Output Tokens
+🔤 1,407,673 Input Tokens, 103,839 Output Tokens
 
-💵 $1.68 Estimated AI Cost This Week
+💵 $24.94 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 13 AI Prompts
+🧠 18 AI Sessions, 59 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      375 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 6,173 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,905 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Java** 
@@ -52,7 +56,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 03:05:54 UTC
+ Last Updated on 13/09/2026 03:07:35 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
