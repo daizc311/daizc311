@@ -9,36 +9,36 @@
 
 ```text
 💬 编程语言: 
-Java                     55 mins             █████████░░░░░░░░░░░░░░░░   36.38 % 
-YAML                     42 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+YAML                     42 mins             ████████░░░░░░░░░░░░░░░░░   32.01 % 
+Java                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+TypeScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 编辑器: 
-Codex Vscode             1 hr 38 mins        ████████████████░░░░░░░░░   65.35 % 
-VS Code                  52 mins             █████████░░░░░░░░░░░░░░░░   34.65 % 
+Codex Vscode             1 hr 21 mins        ███████████████░░░░░░░░░░   60.92 % 
+VS Code                  52 mins             ██████████░░░░░░░░░░░░░░░   39.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 14 mins (100.0%)
 
 ✍️ 374 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,407,673 Input Tokens, 103,839 Output Tokens
+🔤 1,252,770 Input Tokens, 99,968 Output Tokens
 
-💵 $24.94 Estimated AI Cost This Week
+💵 $24.46 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 59 AI Prompts
+🧠 16 AI Sessions, 54 AI Prompts
 
 GPT                      375 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,905 characters per prompt
+📚 Verbose Prompter — average 9,708 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -56,7 +56,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 03:20:46 UTC
+ Last Updated on 15/09/2026 03:22:39 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
