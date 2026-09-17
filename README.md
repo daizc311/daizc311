@@ -9,37 +9,16 @@
 
 ```text
 💬 编程语言: 
-YAML                     42 mins             ████████████░░░░░░░░░░░░░   46.75 % 
-TypeScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-TOML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Java                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-Codex Vscode             1 hr 3 mins         █████████████████░░░░░░░░   69.48 % 
-VS Code                  28 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (100.0%)
-
-✍️ 367 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 900,139 Input Tokens, 74,380 Output Tokens
-
-💵 $8.54 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 46 AI Prompts
-
-GPT                      368 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,099 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Java** 
@@ -55,7 +34,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 03:18:37 UTC
+ Last Updated on 17/09/2026 03:24:23 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
