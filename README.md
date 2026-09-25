@@ -3,44 +3,44 @@
 
 ## WakaTime
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2047%20mins-blue?style=flat)
 
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-Other                    1 hr 49 mins        ███████████████░░░░░░░░░░   60.51 % 
-Java                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-SSH Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    1 hr 6 mins         ████████████░░░░░░░░░░░░░   48.34 % 
+Java                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+SSH Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 编辑器: 
-Codex Vscode             2 hrs 17 mins       ███████████████████░░░░░░   75.78 % 
-Agent                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Codex Vscode             1 hr 34 mins        █████████████████░░░░░░░░   68.32 % 
+Agent                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (91.64%)
+⏱ AI Coding Time: 2 hrs 3 mins (89.06%)
 
 ✍️ 219 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,084,650 Input Tokens, 113,624 Output Tokens
+🔤 767,548 Input Tokens, 98,581 Output Tokens
 
-💵 $13.91 Estimated AI Cost This Week
+💵 $8.89 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 34 AI Prompts
+🧠 14 AI Sessions, 24 AI Prompts
 
 GPT                      229 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,581 characters per prompt
+📚 Verbose Prompter — average 10,485 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.87% of changed lines were hand-edited
 ```
@@ -58,7 +58,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 03:07:41 UTC
+ Last Updated on 25/09/2026 03:24:34 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
