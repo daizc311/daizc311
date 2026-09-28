@@ -9,40 +9,36 @@
 
 ```text
 💬 编程语言: 
-Java                     34 mins             ███████████░░░░░░░░░░░░░░   42.29 % 
-SSH Config               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+SSH Config               12 mins             ███████████████████░░░░░░   75.49 % 
+Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 编辑器: 
-Codex Vscode             37 mins             ████████████░░░░░░░░░░░░░   46.32 % 
-Agent                    27 mins             ████████░░░░░░░░░░░░░░░░░   33.99 % 
-VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VS Code                  15 mins             ████████████████████████░   94.24 % 
+Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (81.47%)
+⏱ AI Coding Time: 0 secs (5.76%)
 
-✍️ 219 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 628,635 Input Tokens, 88,875 Output Tokens
+🔤 65,961 Input Tokens, 10,786 Output Tokens
 
-💵 $8.21 Estimated AI Cost This Week
+💵 $0.83 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 12 AI Prompts
+🧠 3 AI Sessions, 2 AI Prompts
 
-GPT                      229 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 20,882 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 27,988 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **我最常使用 Java** 
@@ -58,7 +54,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 03:38:53 UTC
+ Last Updated on 28/09/2026 03:37:30 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
