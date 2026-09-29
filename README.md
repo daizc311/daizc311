@@ -9,36 +9,32 @@
 
 ```text
 💬 编程语言: 
-SSH Config               12 mins             ███████████████████░░░░░░   75.49 % 
-Other                    3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  15 mins             ████████████████████████░   94.24 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Codex Vscode             0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (5.76%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 65,961 Input Tokens, 10,786 Output Tokens
+🔤 55,886 Input Tokens, 711 Output Tokens
 
-💵 $0.83 Estimated AI Cost This Week
+💵 $0.75 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 27,988 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+📚 Verbose Prompter — average 15,674 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 Java** 
@@ -54,7 +50,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 03:37:30 UTC
+ Last Updated on 29/09/2026 04:12:27 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
