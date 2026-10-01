@@ -9,32 +9,16 @@
 
 ```text
 💬 编程语言: 
-Other                    0 secs              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-Codex Vscode             0 secs              █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 55,886 Input Tokens, 711 Output Tokens
-
-💵 $0.75 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 15,674 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Java** 
@@ -50,7 +34,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 03:57:38 UTC
+ Last Updated on 01/10/2026 04:07:50 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
