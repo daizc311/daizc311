@@ -3,41 +3,45 @@
 
 ## WakaTime
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2025%20mins-blue?style=flat)
 
 📊 **本周消耗时间** 
 
 ```text
 💬 编程语言: 
-TypeScript               56 mins             ████████████░░░░░░░░░░░░░   48.78 % 
-Java                     46 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Java                     1 hr 48 mins        ██████████████░░░░░░░░░░░   54.19 % 
+TypeScript               57 mins             ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 编辑器: 
-Cursor                   1 hr 10 mins        ███████████████░░░░░░░░░░   60.56 % 
-Codex Vscode             46 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
+Cursor                   1 hr 49 mins        ██████████████░░░░░░░░░░░   55.19 % 
+Codex Vscode             1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Agent                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 19 mins (100.0%)
 
-✍️ 343 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 818 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 247,972 Input Tokens, 50,924 Output Tokens
+🔤 587,745 Input Tokens, 71,667 Output Tokens
 
-💵 $1.96 Estimated AI Cost This Week
+💵 $3.13 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 17 AI Prompts
+🧠 13 AI Sessions, 29 AI Prompts
 
-GPT                      343 lines           █████████████████████████   100.00 % 
+Opus                     388 lines           ████████████░░░░░░░░░░░░░   47.26 % 
+GPT                      343 lines           ██████████░░░░░░░░░░░░░░░   41.78 % 
+Grok                     90 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
+📄 Detailed Prompter — average 736 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -55,7 +59,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 04:18:37 UTC
+ Last Updated on 11/10/2026 03:58:14 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
