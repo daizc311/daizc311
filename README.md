@@ -9,39 +9,39 @@
 
 ```text
 💬 编程语言: 
-Java                     2 hrs 5 mins        █████████████░░░░░░░░░░░░   52.11 % 
-TypeScript               1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Java                     1 hr 19 mins        ████████████████░░░░░░░░░   65.04 % 
+HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 编辑器: 
-Cursor                   2 hrs 24 mins       ███████████████░░░░░░░░░░   60.05 % 
-Codex Vscode             1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-Agent                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Cursor                   1 hr 12 mins        ███████████████░░░░░░░░░░   58.96 % 
+Agent                    32 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Codex Vscode             16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 1 min (100.0%)
+⏱ AI Coding Time: 2 hrs 2 mins (100.0%)
 
-✍️ 978 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 635 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 587,745 Input Tokens, 71,667 Output Tokens
+🔤 339,773 Input Tokens, 20,743 Output Tokens
 
-💵 $3.13 Estimated AI Cost This Week
+💵 $1.17 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 40 AI Prompts
+🧠 10 AI Sessions, 22 AI Prompts
 
-Opus                     555 lines           ██████████████░░░░░░░░░░░   56.17 % 
-GPT                      343 lines           █████████░░░░░░░░░░░░░░░░   34.72 % 
-Grok                     90 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Opus                     555 lines           ██████████████████████░░░   86.05 % 
+Grok                     90 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 588 characters per prompt
+📄 Detailed Prompter — average 1,016 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -59,7 +59,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 03:06:24 UTC
+ Last Updated on 17/10/2026 02:58:36 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
