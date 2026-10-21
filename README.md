@@ -9,36 +9,16 @@
 
 ```text
 💬 编程语言: 
-Java                     17 mins             ███████████░░░░░░░░░░░░░░   44.34 % 
-HTML                     16 mins             ███████████░░░░░░░░░░░░░░   43.03 % 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-Cursor                   32 mins             █████████████████████░░░░   83.91 % 
-Agent                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (100.0%)
-
-✍️ 158 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 9 AI Prompts
-
-Opus                     165 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Java** 
@@ -54,7 +34,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 03:22:47 UTC
+ Last Updated on 21/10/2026 03:17:45 UTC
 <!--END_SECTION:waka-->
 
 ## Tools
